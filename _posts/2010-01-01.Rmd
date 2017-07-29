@@ -1,6 +1,6 @@
 ---
 title: "Sandor Sovago"
-output: html_document
+layout: post
 ---
 
 Welcome to my website,
